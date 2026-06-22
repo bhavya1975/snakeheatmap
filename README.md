@@ -4,8 +4,6 @@ Welcome to my GitHub profile page. Below you can see my GitHub contribution hist
 
 ## 🐍 GitHub Contribution Snake Animation
 
-<!-- The snake animation is generated automatically by a GitHub action and committed to the 'output' branch. -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake.svg">
